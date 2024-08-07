@@ -101,6 +101,10 @@ nav ul li a:hover::after{
 }
 /* <!-- -----------------------------about --> */
 
+.react-image{
+    margin-top: 150px;
+}
+
 #about{
     padding: 10px 10px;
     color: #ababab;
