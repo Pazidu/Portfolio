@@ -355,11 +355,11 @@ nav .fa-solid {
     text-align: center;
   }
 
-  /* .proPic {
-    width: 200px;
-    height: 200px;
+  .proPic {
+    /* width: 200px;
+    height: 200px; */
     margin-top: 30px;
-  } */
+  }
 
   .header-text h1 {
     font-size: 35px;
